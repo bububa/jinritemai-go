@@ -1,0 +1,996 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"green",
+				"green lighten-5 \tColor class - Vuetify"
+			],
+			[
+				"light",
+				"lighten-2 \tColor class - Vuetify"
+			],
+			[
+				"is",
+				"is_admin"
+			],
+			[
+				"mixin",
+				"msgMixin"
+			],
+			[
+				"sera",
+				"searchGroup"
+			],
+			[
+				"profile",
+				"profileAuthorize"
+			],
+			[
+				"get",
+				"getAuthorizeUsers"
+			],
+			[
+				"Customer",
+				"CustomerCellDetail"
+			],
+			[
+				"getLife",
+				"getLifecycleList"
+			],
+			[
+				"mdi-acc",
+				"mdi-account-star"
+			],
+			[
+				"unin",
+				"unionRes"
+			],
+			[
+				"style",
+				"style"
+			],
+			[
+				"encode",
+				"encodeQueryString"
+			],
+			[
+				"msg",
+				"MsgEditorDialog"
+			],
+			[
+				"bad",
+				"background-color"
+			],
+			[
+				"grey",
+				"grey lighten-2 \tColor class - Vuetify"
+			],
+			[
+				"getSkuIn",
+				"getSkusInElite"
+			],
+			[
+				"fontW",
+				"fontWeightTitle"
+			],
+			[
+				"color",
+				"colorSecondary"
+			],
+			[
+				"display",
+				"displayCoupons"
+			],
+			[
+				"dis",
+				"displayShare"
+			],
+			[
+				"Order",
+				"OrderItem"
+			],
+			[
+				"eleva",
+				"elevation2\televatio by -2 - Vuetify"
+			],
+			[
+				"join",
+				"join_bonus"
+			],
+			[
+				"getAc",
+				"getActivityTemplates"
+			],
+			[
+				"network",
+				"networkDialog"
+			],
+			[
+				"plugin",
+				"pluginTemplateId"
+			],
+			[
+				"en",
+				"encodeURIComponent"
+			],
+			[
+				"Member",
+				"MemberFilter"
+			],
+			[
+				"lotter",
+				"lotterySetting"
+			],
+			[
+				"acti",
+				"activityId"
+			],
+			[
+				"getC",
+				"getCampaignInfo"
+			],
+			[
+				"updateCa",
+				"updateCampaignInfo"
+			],
+			[
+				"defau",
+				"colorBgDefault"
+			],
+			[
+				"pan",
+				"panelSwipeData"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"neare",
+				"nearestPoi"
+			],
+			[
+				"near",
+				"nearestPoi"
+			],
+			[
+				"calu",
+				"caculation_method"
+			],
+			[
+				"cal",
+				"calculationMethod"
+			],
+			[
+				"increment",
+				"increment_fee"
+			],
+			[
+				"selected",
+				"selectedAttributes"
+			],
+			[
+				"addAttr",
+				"addAttrValueId"
+			],
+			[
+				"addAt",
+				"addAttrValueId"
+			],
+			[
+				"addA",
+				"addValueForm"
+			],
+			[
+				"getCae",
+				"getCategoriesByPid"
+			],
+			[
+				"getCa",
+				"getCategoriesByPid"
+			],
+			[
+				"descS",
+				"descSectionMoveUp"
+			],
+			[
+				"nav",
+				"navHeaderTitle"
+			],
+			[
+				"vue",
+				"vuetify"
+			],
+			[
+				"countdown",
+				"countdown-overlay"
+			],
+			[
+				"title",
+				"fontWeightTitle"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"Depth",
+				"DepthClusterViewMode"
+			],
+			[
+				"seriz",
+				"serializeChildren"
+			],
+			[
+				"node",
+				"nodeName"
+			],
+			[
+				"selec",
+				"selectedLocation"
+			],
+			[
+				"play",
+				"playing"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"pick",
+				"showPickerView"
+			],
+			[
+				"messageInpu",
+				"messageInputBottom"
+			],
+			[
+				"current",
+				"currentSwiperIndex"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"link",
+				"colorLink"
+			],
+			[
+				"tap",
+				"tappedSong"
+			],
+			[
+				"auth",
+				"authToken"
+			],
+			[
+				"font",
+				"fontWeightTitle"
+			],
+			[
+				"foundSele",
+				"foundSelectedGroup"
+			],
+			[
+				"openg",
+				"openGidActivityId"
+			],
+			[
+				"seri",
+				"seriesName"
+			],
+			[
+				"tabb",
+				"tabBarSelector"
+			],
+			[
+				"failed",
+				"failedPlays"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"nava",
+				"navigateTo"
+			],
+			[
+				"draw",
+				"drawImage"
+			],
+			[
+				"message",
+				"messages-box"
+			],
+			[
+				"like-",
+				"likes-avatar"
+			],
+			[
+				"poi-swiper",
+				"poi-swiper-item"
+			],
+			[
+				"wi",
+				"windowHeight"
+			],
+			[
+				"no",
+				"noMoreData"
+			],
+			[
+				"time",
+				"formatTime"
+			],
+			[
+				"media",
+				"mediaContent"
+			],
+			[
+				"getEl",
+				"getElementById"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/client.go",
+			"settings":
+			{
+				"buffer_size": 3515,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "package client"
+			}
+		},
+		{
+			"contents": "package spec\n\nimport (\n\t\"github.com/bububa/jinritemai-go/client\"\n)\n\ntype DelRequest struct {\n\tID uint64 `json:\"id,omitempty\"` // 规格id (spec_id)\n}\n\nfunc (this DelRequest) Method() string {\n\treturn \"spec/del\"\n}\n\nfunc (this DelRequest) Params() map[string]interface{} {\n\treturn map[string]interface{}{\n\t\t\"id\": this.ID,\n\t}\n}\n\nfunc Del(clt *client.Client, specID uint64) error {\n\treq := &DelRequest{\n\t\tID: specID,\n\t}\n\tvar ret bool\n\terr := clt.Do(req, &ret)\n\treturn err2424124123424312341234123412341234123441212345124124124323412412341241243124124112344123512345234123451243123412341234124312345123412342345123412345123412341234124421311124312412431121111211234123421234123421234123412341234212342342342123412341234231231123412123412341234112412431234123412341234512342341123524322112121234121223424323512345123412435234124351234512345234512342341243121234123412341234123451234123412341243123412341234124123412342341234123412345234123451234123412341234121212112124123412432341234523412345234234523412345234123451234512345123451234523453234523452345234523452345234234123412345123451234123412345123451234123412431234123412341234123412342341234512341234243512342345123452343234523451234512345123451234523451234512345123452345123452345123451234123412341234123451243512412345123451234123412345234123452341234243512435234123451234 ∞1234612345x123452341234512341234234123451234123451234512345123451234512345123451234512345123451234512345124351234512345123451243512345123452345123452341234512341234123412345123412341234123451234123412341234123451234512341234512345123451234123412341234123412345123451234512345123451234512345234512435123451234523412345123451234512341234123412345123412345123412341234123412341234123412341234123423423423412345123412435234523452345234523451234523451234523451234512345123451234512345123451234512345234512345123451234512345234512345234512345123451234123451234512345123451234512435123451234234512345123451234512345123451234512345123451243512341243512345123451243512435123451234512341234512341234512345123451234512341234512345123451234512341234512341234123451234512345123451234123451234123412341234512341234512341234512341234512341234512345123451234123412345123451234123451234512345123451234512345123451234512345123451234512345123451234512345243512345124351234512345123451234512345123451234512345123451234512341234523452345123451234512345123451234512341234512341234512345124351234512345123451234512345234523451234523451234524351243523412435123412345123412345123412341234123412341234123412341234123451234123451234512345123451423523423234523452345123412345123451234512345234512345123451234512345123451234512435123451234512345123451234512345123451234123451234512345123451234512431234512345234512435123412345123412341234123452345123451234512345123451234512345123451234512345123451234512345123451234512345234512345123412345123451234234123412345123451234512435123451234123451234123412345123412345123412341234123412341234123412345123412345123412345123412345234512345123412345123451234512341234512341234512341234123412345123412345612341234512341234512345123452345123451234512345124351234561234512345123451234512344123561234512345123412345123451234512341234512341234512341234123451234512345123451234123451243512345123412345123451423123412345123451234523451234512435123452341243512341243124351234123412341241234123412341234123451234123412341234512341234512341234562345234512435234123452345123451234234123412345123414235123451234512341243123412345124351234512345124352345123452341234523451423512431234523412345123414235123412345123412345123412345243123451243123451234512345234123451234123424312345234123451234123412341234512345142312345412351234134212345142351243541235123451234123412345234512345612356123451234512345123452345234523452345234524352352345412351243123452341234524351243512345123412345123451234512345123451234561234541235123454123524352345234234523451234524351234523451234523454123512344123524314235234512345123451234512345412351234512345123451234512341234562342435234512345612345623567356567567235673523524352345234512352345123452432352424242345234123452341243512341234512344235123414235123412345234123452342345234523523412345123412345234123412412345234123423451234523423452412345123412345124314235234142323412345234123424312345234123452342345234243234142323412345123412345243234523423234123452431234243123423412342431234523412341234123452431234512341234512341234512345123452341234523451234523412345234123452341234523412345123412345234523456235235623452345123451234523412345123412345123451234512341234523412345234512345623452356231234523412345123412345243123412345123451234123451234512345123412345123412435241234523412341234123412341234512412341234512345234234524352323423523523523423562352352431234121234112111212342412342341234561234512345234123451234124352341234512341234523412345671234523456712345234523452345234123452342345234124323412345234243523452345234523452341234512342345234123423412345234234234123452345124312341234123412341231234512312341234123452341234523423452341234234123452341234123412345123451234512345124352345123451234523452345234243123452345123452345123452341234512341234512345123451234512345123451234562341423512341234512345124351234512345234123412341234123412342342345234123412345123452345123452341234234123423451234523412345234123423412341234123452341234123412342341234234123412342345234512345234234523412345234123412341234514!@$!@#$%!@#$%@#$%@#%^&@#%@#$%!@#$@#$@#$!@#$%@#$!@#$%@#$!@#$%!@#$!@#$%!@#$%!@#$%@#$!@#$%@#$!@#$@#$!@$#%@#$!@#$%@#$%!@#$@#$!@#$@#$!@#$@#$$@#%@$#!@#$@$!@$#!@#$!@#$!@!@$@#$!@#$@#$!@#$%@$#$@#%@#$%!@#$@#$!@#$%@#$!@#$!@#$!@#$@#$!@#$@#$!@#$@#$!@#$!@#$!@#$@#$!@#$%!@$#@#$%!@#$!@#$%@$#%!@#$%@#$%@#%@#$%@#%@#$!@#$%@#$@#$%@#$@#$@#$@#$%@#$@#$%@#$%@#$%@#$$@#%@#$@#$%@#$@#$@#$@#$@#$%@#$%@$#!@#$@#$%!@#$%%^^^^%#@#@#$$@#@#$@#$@#$@#$@#@#$!@#$@#@#$$@#%@!$@!@$!@!@#$%@#$!@#$@#!@#$@#$!@#$@#$@#$%#$@#$%@#$@#$@#$!@#$@#$!@#$@#$!@#$@#$!@#$@#$@#$@#$!@#$@#$!@#$%@#$!@$#@$#!@#$@#$@#$@$@#$@#$!@#$@#$!@#$@!@#$@!@#$@!@#$@#$!@#$@!@#$@#$!@#$@#$!@#$@#$@#$%@#$!@#$@#$@#$@$@#$@#$!@#$%@#$!@#$@#$!@#$@#$!@#$@#$@#$@#$!@#$@#$$@#@#$@#$%@#$!@#$@#$!@#$@#$@#$@#$!@#$!@#$@!!@!@#$@#$@#$@#$!@$@!@#$@!@@!@#$@$#!@#$@$#!@!!@$!@#$!@#$$$@#@#$%@#%@#$%@#$!@#$%@#$!@#$@#$!@#$%@#$!@#$@!!@#$!@#$@#$!@#$@!@#$!@#$@#$!@#$%!@#$%!@#$%@$#%@#$%!@#$!@#$%@#$!@#$@#$!@#$@#$@#$@#$@#$@#$@#$@#$!@#$@#$@#$@#!@#$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!@#$!!@#$!@!!!@!@#$!!!@#$!!@#$%^!@#$!@#$!@#$!@#$!@#$!@#$%@!@!@!@#$@!@@$!@$!!@!!!!!!!!!!@@!!@!@!!!!@#$!@#$!1234!!@#$%!@#!@#$@#$!@#$@#$!@#$%@#$!@#$%@#$!@#$%!@#!@#$!@#$!@#$%@#$!@#$%!@#!@#$@!@@!@#$@$!@#$!@#$!@#$%!@#$@$#%@#$!@#$%!@#$!@#$!@#$!@#$%@#$@#$%@$#!@#$!@#$!@#$@#$!@#$!@#$@#$%!@#$!@#$!@#$!@$#!@#$!@#$!@#$!@#$!@#$!@$#!@#$!@#$!@#$!@#$%!@#$!@#$%!@#$!@#$!@#$!@#$@#!@#$!@#$!@#$!@#$!@#$!@#$!@$#%!@#$!@#$%@#$!@#$%@#$@#$%!@#$!@#$!@#$!@#$!@#$!@#$!@#$!@#$!@#$!@#$%!@#$!@#$%!@#$!@$#!@#$!@#$%!@$#!@#$%@#$!@#$%!@#$!@#$!@#$!@#$@#$!@#$!@#$!@#$%@#$!@#$%1@#$!@#$%!@#$!@#$@#$@#$!!  !@#$    %!@#7-8\\69-=\\`890#$%@!^&XCEVZ\n}\n",
+			"file": "requests/spec/del.go",
+			"file_size": 470,
+			"file_write_time": 132487822157865737,
+			"settings":
+			{
+				"buffer_size": 6944,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "requests/product/model.go",
+			"settings":
+			{
+				"buffer_size": 2628,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "package product"
+			}
+		},
+		{
+			"file": "requests/spec/model.go",
+			"settings":
+			{
+				"buffer_size": 718,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "requests/product/add.go",
+			"settings":
+			{
+				"buffer_size": 4350,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "requests/spec/add.go",
+			"settings":
+			{
+				"buffer_size": 681,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"LSP",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"LSP: Ena",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package control i",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"gosublime: fm",
+				"GoSublime: Fmt the current file (without saving it)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/product",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/shop",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/spec"
+	],
+	"file_history":
+	[
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/product/edit.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/product/del.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/spec/detail.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/spec/list.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/product/detail.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/spec/model.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/client/interface.token.go",
+		"/Users/syd/go/src/github.com/bububa/jdvop/client.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/client/const.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/client/request.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/client/response.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/client/utils.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/product/list.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/product/getGoodsCategory.go",
+		"/Users/syd/Library/Caches/Transmit/F6D952C5-D539-484E-9713-CC73EF7DB186/code1/data/home/syd/groupee/src/github.com/groupee/server/services/trigger/service.go",
+		"/Users/syd/Library/Caches/Transmit/55B5E802-5D1B-48CF-A1AB-A1172671BA6D/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/api/event/new.go",
+		"/Users/syd/Library/Caches/Transmit/FE7D42EC-031A-45B6-9401-1309E26F2F4D/code1/data/home/syd/groupee/src/github.com/groupee/server/services/trigger/rpc/server/service.go",
+		"/Users/syd/Library/Caches/Transmit/D7D4295B-562C-4317-B841-77BB83D794E8/code1/data/home/syd/groupee/src/github.com/groupee/server/services/trigger/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/6B74E511-A4AA-419A-901B-AF643C0D5E26/code1/data/home/syd/groupee/src/github.com/groupee/server/services/trigger/rpc/server/service.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/requests/shop/brandList.go",
+		"/Users/syd/go/src/github.com/bububa/jdvop/access_token.go",
+		"/Users/syd/go/src/github.com/bububa/jdvop/token.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/internal/debug/release.go",
+		"/Users/syd/go/src/github.com/bububa/jdvop/internal/debug/release.go",
+		"/Users/syd/go/src/github.com/bububa/jinritemai-go/internal/debug/debug.go",
+		"/Users/syd/go/src/github.com/bububa/jdvop/internal/debug/debug.go",
+		"/Users/syd/go/src/github.com/bububa/jdvop/response.go",
+		"/Users/syd/go/src/github.com/bububa/jdvop/request.go",
+		"/Users/syd/Library/Caches/Transmit/0C33CE9F-E6A9-44BC-97FD-F2851976A85D/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/client.go",
+		"/Users/syd/Library/Caches/Transmit/AA9E8326-BE0F-4A1D-B5E9-4653600152A9/code1/data/home/syd/groupee/src/github.com/groupee/server/services/msg/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/5B00B234-99B3-42AF-AB6C-A43EF4DF94DF/code1/data/home/syd/groupee/src/github.com/groupee/server/router/index.go",
+		"/Users/syd/Library/Caches/Transmit/655162AB-92AE-4296-AAA0-FCE7DB716EEB/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/const.go",
+		"/Users/syd/Library/Caches/Transmit/C1A0F379-B979-4911-AEA6-797D58A01814/code1/data/home/syd/groupee/src/github.com/groupee/server/services/trigger/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/CE3E3068-0C9F-4099-8158-CAC8D89A7DBD/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/server.go",
+		"/Users/syd/Library/Caches/Transmit/669E1695-FDFD-45F2-B169-6A75E7E941C3/code1/data/home/syd/groupee/src/github.com/groupee/server/services/msg/rpc/server/service.go",
+		"/Users/syd/Library/Caches/Transmit/5A130507-68AB-4324-98B1-02B38AEB163F/code1/data/home/syd/groupee/src/github.com/groupee/server/services/event/rpc/server/service.go",
+		"/Users/syd/Library/Caches/Transmit/D758F044-1E09-4D83-B0CF-DA6B531F5C9A/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/api/event/new.go",
+		"/Users/syd/Library/Caches/Transmit/BC6288B7-2758-4469-A075-325BE16E4E93/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/const.go",
+		"/Users/syd/Library/Caches/Transmit/4125C9C3-21B1-470F-86FF-D169DFFF7DC4/code1/data/home/syd/groupee/src/github.com/groupee/server/middlewares/tracer/tracer.go",
+		"/Users/syd/Library/Caches/Transmit/9E23A476-F36A-40FF-8B21-C1C8D158425C/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/client.go",
+		"/Users/syd/Library/Caches/Transmit/91D37555-09E7-46DA-B967-179D3E688BA4/code1/data/home/syd/groupee/src/github.com/groupee/server/services/msg/rpc/server/service.go",
+		"/Users/syd/Library/Caches/Transmit/7C583577-F5B9-4AD1-A1BE-C3C7EBD2BC11/code1/data/home/syd/groupee/src/github.com/groupee/server/services/start.go",
+		"/Users/syd/Library/Caches/Transmit/F2189D80-8682-4742-8FA3-5ED830AFE5C5/code1/data/home/syd/groupee/src/github.com/groupee/server/middlewares/tracer/tracer.go",
+		"/Users/syd/Library/Caches/Transmit/2F7AFAE8-4D6C-4097-B59E-F369130E1B98/code1/data/home/syd/groupee/src/github.com/groupee/server/main.go",
+		"/Users/syd/Library/Caches/Transmit/F71F6686-4CC3-45F1-84C5-60D3185441BC/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/client.go",
+		"/Users/syd/Library/Caches/Transmit/D4E97A20-633A-45AE-BD01-975996FEB980/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/init.go",
+		"/Users/syd/Library/Caches/Transmit/051407E6-C1BF-41AA-9F16-A63F79EEA680/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/context.go",
+		"/Users/syd/Library/Caches/Transmit/FCD8529F-1CDA-41A9-B87D-ADFACF606861/code1/data/home/syd/groupee/src/github.com/groupee/server/services/msg/rpc/server/server.go",
+		"/Users/syd/Library/Caches/Transmit/C68826F3-59D3-4489-97BF-8A18FE138EE8/code1/data/home/syd/groupee/src/github.com/groupee/server/services/start.go",
+		"/Users/syd/Library/Caches/Transmit/DAF1395A-A089-4971-A7E3-9A787FD4B6FD/code1/data/home/syd/groupee/src/github.com/groupee/server/middlewares/tracer/tracer.go",
+		"/Users/syd/Library/Caches/Transmit/AC5FB591-274B-4F61-92F9-8554785702C8/code1/data/home/syd/groupee/src/github.com/groupee/server/middlewares/tracer/option.go",
+		"/Users/syd/Library/Caches/Transmit/63FCDB4F-A7A0-4747-8D43-DB1E82BAA0C9/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/server.opentelemetry.go",
+		"/Users/syd/Library/Caches/Transmit/9E8474BE-04D6-4A13-9679-90248EABAD7B/code1/data/home/syd/groupee/src/github.com/groupee/server/services/start.go",
+		"/Users/syd/Library/Caches/Transmit/2FBAE60F-37D3-4A58-8189-8123DC9278B2/code1/data/home/syd/groupee/src/github.com/groupee/server/main.go",
+		"/Users/syd/Library/Caches/Transmit/84DD2C72-938F-4D2A-B524-2084A4BD215A/code1/data/home/syd/groupee/src/github.com/groupee/server/services/trigger/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/B2176881-439C-4E6D-B1CD-70ECC29244F8/code1/data/home/syd/groupee/src/github.com/groupee/server/services/start.go",
+		"/Users/syd/Library/Caches/Transmit/D49E7BF5-E33C-4B5D-832F-F75B1EDFBBC8/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/api/event/new.go",
+		"/Users/syd/Library/Caches/Transmit/EFC81D4F-1246-473D-B941-FB784DCF3D6B/code1/data/home/syd/groupee/src/github.com/groupee/server/services/event/rpc/server/service.go",
+		"/Users/syd/Library/Caches/Transmit/68B4FD6B-9101-4142-BE12-674B32962C99/code1/data/home/syd/groupee/src/github.com/groupee/server/services/event/rpc/server/service.go",
+		"/Users/syd/Library/Caches/Transmit/665F316C-56CA-4DD3-9214-55473ACB7AF2/code1/data/home/syd/groupee/src/github.com/groupee/server/services/msg/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/63389750-8A8A-4B6F-9DB6-04BA1E64C30A/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/api/event/send.go",
+		"/Users/syd/Library/Caches/Transmit/E245A61C-1F98-4F3E-AD49-55CD29709524/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/external.contacts.go",
+		"/Users/syd/Library/Caches/Transmit/E049FF1E-2B93-4D11-9F22-B78DDC29ECBC/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/contacts.go",
+		"/Users/syd/Library/Caches/Transmit/3BB188AB-C93F-4FB5-902C-256B7BDE37A8/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/checkin.go",
+		"/Users/syd/Library/Caches/Transmit/7F67B241-0645-48BF-BD0F-EB5A51F656B9/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/add.customer.go",
+		"/Users/syd/Library/Caches/Transmit/217573BD-DA99-41EB-823E-C216B4EB51AD/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/blacklist.go",
+		"/Users/syd/Library/Caches/Transmit/661F56A8-B9FD-45AF-9585-B95E6C040128/code1/data/home/syd/groupee/src/github.com/groupee/server/helper/event/bot.login.go",
+		"/Users/syd/Library/Caches/Transmit/CD7AEA72-72C4-4722-B564-65A3DE0F92FD/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/ws/connect.go",
+		"/Users/syd/Library/Caches/Transmit/7183BD51-7A13-4927-A3BF-C0C6E34F31AE/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/finance/notify.go",
+		"/Users/syd/Library/Caches/Transmit/8B8CA0BE-49AC-4399-B648-72AA8785F121/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/bot/login.go",
+		"/Users/syd/Library/Caches/Transmit/2A1B7081-F05F-4890-BAC2-7934810255C2/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/ws/disconnect.go",
+		"/Users/syd/Library/Caches/Transmit/CFE23B72-F04B-4F96-ABEC-7951E5B04D50/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/msg/instant.add.go",
+		"/Users/syd/Library/Caches/Transmit/30D1BBE6-AC71-4F27-8047-554B466DB331/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/kickout.go",
+		"/Users/syd/Library/Caches/Transmit/2059E3F9-E14B-4AE0-9E89-511D9B7A0F1E/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/contact.bonus.go",
+		"/Users/syd/Library/Caches/Transmit/772B39CA-ED0E-48D8-AEB6-7C5DC744DF6E/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/blacklist.go",
+		"/Users/syd/Library/Caches/Transmit/75CA3A89-53C2-4CDC-9857-730570F726EA/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/finance/notify.go",
+		"/Users/syd/Library/Caches/Transmit/DD75F866-C444-49E3-9D71-373CD64E7B37/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/customer/msg.send.go",
+		"/Users/syd/Library/Caches/Transmit/264B2D9E-5C13-4DB2-B201-15849E4F4A15/code1/data/home/syd/groupee/src/github.com/groupee/server/helper/event/on.msg.status.go",
+		"/Users/syd/Library/Caches/Transmit/E4BE276F-98DE-44DF-9229-287595F076AE/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/wechat.contacts.go",
+		"/Users/syd/Library/Caches/Transmit/7F7255F1-8227-4FD1-B393-58529323AC2A/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/group.work.id.go",
+		"/Users/syd/Library/Caches/Transmit/99548578-2F13-4407-8B4B-B7EF6A669F60/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/freechat.go",
+		"/Users/syd/Library/Caches/Transmit/BB96E375-3F56-4616-A034-CEEBD79AFEF7/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/checkin.go",
+		"/Users/syd/Library/Caches/Transmit/7A83C930-D000-49BA-A553-6C2545A9137E/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/external.contacts.go",
+		"/Users/syd/Library/Caches/Transmit/F91FCD4A-48E3-45A1-9A99-B7169814998D/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/contacts.go",
+		"/Users/syd/Library/Caches/Transmit/04EBC038-46AB-4A5A-9A92-A4463E46BBD3/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/checkin.go",
+		"/Users/syd/Library/Caches/Transmit/8235EBEB-8D38-4478-815B-C9F0947AC338/code1/data/home/syd/groupee/src/github.com/groupee/server/services/cron/runner/add.customer.go",
+		"/Users/syd/Library/Caches/Transmit/824D1E90-D694-47A7-96B1-F3C4917B2318/code1/data/home/syd/groupee/src/github.com/groupee/server/services/task/runner/sender.go",
+		"/Users/syd/Library/Caches/Transmit/E84144CD-1558-409A-ACCB-258DBA508254/code1/data/home/syd/groupee/src/github.com/groupee/server/services/sop/runner/sender.go",
+		"/Users/syd/Library/Caches/Transmit/C240FCF2-8C1D-4FE3-9067-C164EEB5206A/code1/data/home/syd/groupee/src/github.com/groupee/server/services/event/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/2464E5CC-1729-49A5-B804-CE0FFF4F0EBA/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/server.opentelemetry.go",
+		"/Users/syd/Library/Caches/Transmit/70EC3D47-3D3D-4C9A-A77B-6BE3A4C7AB4B/code1/data/home/syd/groupee/src/github.com/groupee/server/conf/config.go",
+		"/Users/syd/Library/Caches/Transmit/2D7B6F9C-74F4-4F48-A8D3-F7FA96787BE2/code1/data/home/syd/groupee/src/github.com/groupee/server/middlewares/tracer/tracer.go",
+		"/Users/syd/Library/Caches/Transmit/EA9FDE65-A35F-446F-85EF-575E07B10493/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/sop/update.task.go",
+		"/Users/syd/Library/Caches/Transmit/A711B301-6D53-4278-B212-29FF78F271E8/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/sop/update.go",
+		"/Users/syd/Library/Caches/Transmit/D0E94602-2BD6-48E6-9699-7E75DAAE859F/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/sop/del.task.go",
+		"/Users/syd/Library/Caches/Transmit/FD801772-A23C-4E0C-98FE-97B48E6F8749/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/sop/del.go",
+		"/Users/syd/Library/Caches/Transmit/4D5259BA-F20E-4D37-8A04-2A08A52E3BFC/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/sop/add.task.go",
+		"/Users/syd/Library/Caches/Transmit/62590F8E-68A2-4C2E-BC22-EE92004D32F3/code1/data/home/syd/groupee/src/github.com/groupee/server/services/sop/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/EEA7209A-CDC1-4250-A235-9D1A65B9C256/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/transfer.go",
+		"/Users/syd/Library/Caches/Transmit/7DE800BD-1BEC-4BCD-A727-476F3033A0BF/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/transfer.go",
+		"/Users/syd/Library/Caches/Transmit/A67DC602-F4AA-4BB2-B9A2-21D5B5BAF8BC/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/task/list.go",
+		"/Users/syd/Library/Caches/Transmit/D037A190-62BC-4424-A3B4-3FC4C815E038/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/task/update.go",
+		"/Users/syd/Library/Caches/Transmit/9AF5C2BD-EF93-40BA-9948-02EF1C01B38A/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/task/del.go",
+		"/Users/syd/Library/Caches/Transmit/3AFE9674-61D0-4A02-94A3-FAB19C137AB7/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/task/add.go",
+		"/Users/syd/Library/Caches/Transmit/D0C1BBCF-47C2-4E7E-9F4C-382FB687FB04/code1/data/home/syd/groupee/src/github.com/groupee/server/services/task/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/2C3FD462-9E4A-4B62-A457-7B8F2D6CFCEB/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/api/contact/location.go",
+		"/Users/syd/Library/Caches/Transmit/F97D0E76-7709-4D97-8D78-D0E38728775F/code1/data/home/syd/groupee/src/github.com/groupee/server/services/location/rpc/client/client.go",
+		"/Users/syd/Library/Caches/Transmit/CA3621DB-3B84-474A-98AB-6A41CA9A0D9C/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/api/event/new.go",
+		"/Users/syd/Library/Caches/Transmit/E248E0D4-8F5E-4E7C-9D5A-9161D091DD58/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/customer/trigger/update.go",
+		"/Users/syd/Library/Caches/Transmit/D11F3C39-166A-483D-8BD2-6E81BB4489AB/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/customer/trigger/del.go",
+		"/Users/syd/Library/Caches/Transmit/B4662E20-2830-4581-B37F-4EEF409A5D2A/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/customer/trigger/add.go",
+		"/Users/syd/Library/Caches/Transmit/EC630428-19E5-4955-B767-32A4F0974C45/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/trigger/update.go",
+		"/Users/syd/Library/Caches/Transmit/B02D196C-B703-42DA-B045-9C5E4B292562/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/trigger/del.go",
+		"/Users/syd/Library/Caches/Transmit/C9CD1C8C-5FCB-4CB9-9673-04081525F8DB/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/trigger/add.go",
+		"/Users/syd/Library/Caches/Transmit/CD87EA23-B887-4CE2-8FAC-A2320BAC4A95/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/transfer.go",
+		"/Users/syd/Library/Caches/Transmit/C11EFF35-558C-40C0-82E1-6934BF657151/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/group/blacklist.go",
+		"/Users/syd/Library/Caches/Transmit/923C3685-3D02-4D6C-AFF9-42448833944C/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/dept/group.del.go",
+		"/Users/syd/Library/Caches/Transmit/AA6A6298-CC4B-4784-B394-0B8C5D84BDEB/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/console/dept/del.go",
+		"/Users/syd/Library/Caches/Transmit/BA14565C-9BD4-4702-937A-6ED849B0FE0C/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/server.go",
+		"/Users/syd/Library/Caches/Transmit/653DE025-D5C6-46D8-98E7-6CA041CEFA7C/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/context.go",
+		"/Users/syd/Library/Caches/Transmit/88047C95-939F-4C5A-A781-077A88725AC2/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/client.go",
+		"/Users/syd/Library/Caches/Transmit/434A0BAE-A7D1-438B-89E9-29575D64CA99/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/api/event/new.go",
+		"/Users/syd/Library/Caches/Transmit/BCDB8746-C0F9-4DFC-9389-656974DD307D/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/init.go",
+		"/Users/syd/Library/Caches/Transmit/EABD51C2-141E-4E26-ACD3-F7338F6D36FF/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/opentelemetry/init.go",
+		"/Users/syd/Library/Caches/Transmit/A23F3D83-4984-4F6B-817E-1E1BB7F4B1AF/code1/data/home/syd/groupee/src/github.com/groupee/server/services/rpc/plugin/client.opentelemetry.go",
+		"/Users/syd/Library/Caches/Transmit/897DCECE-C0F3-4587-8709-1877CA2BA100/code1/data/home/syd/groupee/src/github.com/groupee/server/services/event/rpc/server/server.go",
+		"/Users/syd/Library/Caches/Transmit/9BB7EC87-645F-41B5-B42B-B9607DC99464/code1/data/home/syd/groupee/src/github.com/groupee/server/services/event/rpc/server/server.go",
+		"/Users/syd/Library/Caches/Transmit/60BF0388-18CD-4BCC-99E3-776DEA7148DF/code1/data/home/syd/groupee/src/github.com/groupee/server/services/event/rpc/server/server.go"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"customerEventHandler",
+			"spew",
+			"log.",
+			"spew",
+			"customerEventHandler",
+			"appKey",
+			"DefaultAccessToken",
+			"IAccessToken"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/client.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								860,
+								860
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package client",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2424.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "requests/spec/del.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6941,
+								6941
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 935.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "requests/product/model.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2628,
+								2628
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package product",
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "requests/spec/model.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "requests/product/add.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2443,
+								2443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 474.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "requests/spec/add.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/syd/Library/Caches/Transmit/22AD25E8-3A74-4874-BCD9-8E8F710B9E61/code1/data/home/syd/groupee/src/github.com/groupee/server/common":
+	{
+		"height": 158.0
+	},
+	"output.9o:///Users/syd/Library/Caches/Transmit/A0F82EF0-0C6A-40B4-BF55-BEA02502C86A/ec2-54-238-177-45.ap-northeast-1.compute.amazonaws.com/opt/go/src/github.com/tokenme/tmm/handler/redeem":
+	{
+		"height": 146.0
+	},
+	"output.9o:///Users/syd/Library/Caches/Transmit/A124D518-70B2-46C8-B598-4CC9C5591D32/ec2-54-238-177-45.ap-northeast-1.compute.amazonaws.com/opt/go/src/github.com/tokenme/tmm/common":
+	{
+		"height": 146.0
+	},
+	"output.9o:///Users/syd/Library/Caches/Transmit/A8A80217-A894-4053-852D-01C25E709EC2/ec2-54-238-177-45.ap-northeast-1.compute.amazonaws.com/opt/go/src/github.com/tokenme/tmm/tools/tokenprofile":
+	{
+		"height": 146.0
+	},
+	"output.9o:///Users/syd/Library/Caches/Transmit/BA0D6D3B-43F7-455A-AF4A-53860C8AFB08/code1/data/home/syd/octosense/src/github.com/octosense/server/handler/api/user":
+	{
+		"height": 152.0
+	},
+	"output.9o:///Users/syd/Library/Caches/Transmit/C0AF7FB0-D210-4EAE-8B59-9D68BBB661DC/code1/data/home/syd/groupee/src/github.com/groupee/server/handler/ws":
+	{
+		"height": 158.0
+	},
+	"output.9o:///Users/syd/Library/Caches/Transmit/CCA73E93-2DBE-4DFF-9929-3D348ABB2130/ec2-54-238-177-45.ap-northeast-1.compute.amazonaws.com/opt/go/src/github.com/tokenme/tmm/handler/task":
+	{
+		"height": 146.0
+	},
+	"output.9o:///Users/syd/go/src/github.com/bububa/jinritemai-go/client":
+	{
+		"height": 158.0
+	},
+	"output.9o:///Users/syd/go/src/github.com/chanxuehong/wechat/work/message/callback/request":
+	{
+		"height": 158.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 146.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 146.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 146.0
+	},
+	"output.diagnostics":
+	{
+		"height": 158.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 158.0
+	},
+	"pinned_build_system": "",
+	"project": "jinritemai-go.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 600.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
