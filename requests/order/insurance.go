@@ -1,8 +1,6 @@
 package order
 
 import (
-	"errors"
-
 	"github.com/bububa/jinritemai-go/client"
 )
 

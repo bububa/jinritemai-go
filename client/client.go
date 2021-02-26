@@ -73,7 +73,7 @@ func (this *Client) RequestValues(req Request) url.Values {
 
 func (this *Client) sign(values url.Values) string {
 	var parts []string
-	for k, _ := range values {
+	for k := range values {
 		parts = append(parts, fmt.Sprintf("%s%s", k, values.Get(k)))
 	}
 	rawSign := fmt.Sprintf("%s%s%s", this.secret, strings.Join(parts, ""), this.secret)
@@ -134,7 +134,7 @@ func (this *Client) RefreshToken(code string, token *Token) error {
 
 func (this *Client) VerifyMessage(reqSign string, msgBody string) bool {
 	rawSign := fmt.Sprintf("%s%s%s", this.appKey, msgBody, this.secret)
-	return MD5(rawSign) == reqSign
+	return Md5(rawSign) == reqSign
 }
 
 func paramJson(req map[string]interface{}) string {

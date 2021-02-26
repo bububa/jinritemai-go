@@ -26,7 +26,7 @@ func (this StockNumRequest) Params() map[string]interface{} {
 // 查询库存
 func GetStockNum(clt *client.Client, skuID uint64, outWarehouseID uint64) (*SkuStock, error) {
 	req := &StockNumRequest{
-		ProductID:      skuID,
+		SkuID:          skuID,
 		OutWarehouseID: outWarehouseID,
 	}
 	var ret SkuStock
