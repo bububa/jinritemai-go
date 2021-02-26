@@ -27,7 +27,7 @@ type ProductDetail struct {
 	Pics            []string    `json:"pic,omitempty"`              // 商品主图
 	ProductFormat   string      `json:"product_format,omitempty"`   // 属性名称|属性值之间用|分隔, 多组之间用^分开
 	SpecPics        []SpecPic   `json:"spec_pics,omitempty"`        // 规格图片
-	SpecPrices      []SpecPrice `json:"spec_prices,omitempty"`      //sku详细信息
+	SpecPrices      []SpecPrice `json:"spec_prices,omitempty"`      // sku详细信息
 	Specs           []spec.Spec `json:"specs,omitempty"`            //
 	Image           string      `json:"img,omitempty"`              // 头图，主图第一张
 }
@@ -40,7 +40,7 @@ type SpecPic struct {
 type SpecPrice struct {
 	SkuID         uint64   `json:"sku_id,omitempty"`          // skuID
 	OutID         uint64   `json:"out_sku_id,omitempty"`      // sku外部
-	SpecDetailIDs []uint64 `json:"spec_detail_ids,omitempty"` //上述sku所使用的子规格ID，比如“白色”、“大”、“女式”的ID
+	SpecDetailIDs []uint64 `json:"spec_detail_ids,omitempty"` // 上述sku所使用的子规格ID，比如“白色”、“大”、“女式”的ID
 	StockNum      int      `json:"stock_num,omitempty"`       // stock_num
 	Price         int      `json:"price,omitempty"`           // sku售价
 	Code          string   `json:"code,omitempty"`            // 商家外部编码
